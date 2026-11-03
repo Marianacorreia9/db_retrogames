@@ -14,27 +14,27 @@ CREATE TABLE IF NOT EXISTS jogos (
 
 INSERT INTO jogos (titulo, plataforma, desenvolvedora, imagem_url, preco)
 VALUES (
-    'Super Mario World',
-    'SNES',
-    'Nintendo',
-    'https://placehold.co/400x300?text=Super+Mario+World',
-    149.90
+    'Adopt-me',
+    'Roblox',
+    'Uplift games',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbJOABtReAdCY8zo_kYZyXZvgP7q-dKdla-brhqUOcVQ&s=10',
+    49.90
 );
 
 INSERT INTO jogos (titulo, plataforma, desenvolvedora, imagem_url, preco)
 VALUES (
-    'Sonic the Hedgehog',
-    'Mega Drive',
-    'Sega',
-    'https://placehold.co/400x300?text=Sonic',
-    99.90
+    'Littlest Pet Shop',
+    'Nintendo DS',
+    'EA',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFt_ZwA0z7dPh9LEOViFYKd3J3EwHak6365nosJ78QZg&s=10',
+    19.90
 );
 
 INSERT INTO jogos (titulo, plataforma, desenvolvedora, imagem_url, preco)
 VALUES (
-    'Crash Bandicoot',
-    'PlayStation 1',
-    'Naughty Dog',
-    'https://placehold.co/400x300?text=Crash+Bandicoot',
-    129.90
+    'The Sims 2',
+    'PC',
+    'Maxis',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Xy10Cio_HVg_UkT6Xu3-u7_YkCh0fhq8JXEQoov9eA&s=10',
+    59.90
 );
