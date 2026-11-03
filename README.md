@@ -63,7 +63,3 @@ Campos:
 - imagem_url
 - preco
 - data_cadastro
-
-## Autora
-
-Desenvolvido por Mariana Correia.
